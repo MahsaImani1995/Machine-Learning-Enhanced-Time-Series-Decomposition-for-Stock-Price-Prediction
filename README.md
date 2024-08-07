@@ -94,10 +94,6 @@ This project demonstrates the use of various machine learning and time series an
 2. Install the required dependencies.
 3. Run the script to perform the analysis and generate forecasts.
 
-## Acknowledgements
 
-This project uses the `finpy_tse` library for data retrieval and various machine learning and statistical libraries for analysis and forecasting.
-
----
 
 
