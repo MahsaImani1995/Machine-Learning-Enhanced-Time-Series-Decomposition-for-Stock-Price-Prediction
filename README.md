@@ -100,4 +100,4 @@ This project uses the `finpy_tse` library for data retrieval and various machine
 
 ---
 
-Feel free to explore and modify the code to suit your needs. Contributions are welcome!
+
